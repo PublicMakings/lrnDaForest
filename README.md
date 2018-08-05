@@ -1,4 +1,4 @@
-# lrnDaForest
+# LrnDaForest
 
 ## Natural vision
 * http://wiki.cnbc.cmu.edu/Image_Databases
